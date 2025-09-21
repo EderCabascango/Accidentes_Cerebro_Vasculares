@@ -1,8 +1,23 @@
-pandas
-numpy
-xgboost
-scikit-learn
-imbalanced-learn
-joblib
-matplotlib
-seaborn
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+*.sqlite3
+
+# Flutter
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Modelos
+*.pkl
